@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://lh4.ggpht.com/BIkmz2dC-U0rHLrEyAM2k2zUvO0Xa11ZwDswwOtZ3zOWNuV8aGkM6xt88YT7apP77ZJh2WaDU6o=s0");
+}
+
+nav li {
+   
+    list-style-type: none;
+    color: white;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+h3 {
+    display: flex;
+    color: white;
+    margin-left: 80px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.search-bar {
+    display: flex;
+    border-radius: 10px;
+    font-size: medium;
+    text-align: left;
+    color: white;
+    background-color: grey;
+    opacity: 0.5;
+    min-width: 100px;
+}
+
+header {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+main {
+    position: relative;
+    display: flex;
+    background-color: azure;
+    border-radius: 25px;
+    text-align: justify;
+    padding: 100px 50px 100px 50px;
+    max-width: 50%;
+    height: 700px;
+    flex-grow: 1;
+    left: 360px;
+    bottom: 170px;
+    opacity: 0.7;
+    
+}
